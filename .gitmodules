@@ -4,3 +4,6 @@
 [submodule "wikiextractor"]
 	path = wikiextractor
 	url = https://github.com/attardi/wikiextractor.git
+[submodule "ALBERT"]
+	path = ALBERT
+	url = https://github.com/google-research/ALBERT.git
